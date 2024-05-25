@@ -5,3 +5,4 @@ streamlit-extras
 langchain
 langchain_community
 python-dotenv
+huggingface-hub
