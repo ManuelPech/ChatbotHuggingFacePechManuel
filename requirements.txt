@@ -4,3 +4,4 @@ streamlit-chat
 streamlit-extras
 langchain
 langchain_community
+python-dotoenv
